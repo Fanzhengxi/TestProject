@@ -6,3 +6,4 @@
 888888888888
 add merge
 new function  1
+new function 2
